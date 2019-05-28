@@ -1,0 +1,17 @@
+docx==0.2.4
+Flask==1.0.3
+Flask-Cors==3.0.7
+Flask-RESTful==0.3.7
+Jinja2==2.10.1
+nltk==3.4
+ntlm-auth==1.2.0
+pandas==0.24.2
+pycparser==2.19
+pycryptodome==3.8.1
+PyPDF2==1.26.0
+python-dateutil==2.8.0
+python-docx==0.8.10
+python-ntlm==1.1.0
+python-ntlm3==1.0.2
+requests==2.21.0
+requests-ntlm==1.1.0
