@@ -3,7 +3,7 @@ Flask==1.0.3
 Flask-Cors==3.0.7
 Flask-RESTful==0.3.7
 Jinja2==2.10.1
-nltk==3.4
+nltk==3.4.5
 ntlm-auth==1.2.0
 pandas==0.24.2
 pycparser==2.19
