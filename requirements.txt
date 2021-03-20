@@ -2,7 +2,7 @@ docx==0.2.4
 Flask==1.0.3
 Flask-Cors==3.0.7
 Flask-RESTful==0.3.7
-Jinja2==2.10.1
+Jinja2==2.11.3
 nltk==3.4
 ntlm-auth==1.2.0
 pandas==0.24.2
